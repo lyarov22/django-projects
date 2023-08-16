@@ -1,0 +1,11 @@
+#: .\polls\templates\polls\index.html:16
+msgid "WelcomeHeading"
+msgstr "Willkommen auf unserer Seite!"
+
+#: .\polls\templates\polls\index.html:17
+msgid "WelcomeMessage"
+msgstr "Hier findet Ihr Umfragen."
+
+#: .\polls\views.py:58
+msgid "StatusMsg"
+msgstr ""
